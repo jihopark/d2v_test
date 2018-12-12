@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        39915,
+        200
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/jihopark/d2v_test/master/vectors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/jihopark/d2v_test/master/metadata.tsv"
+    }
+  ]
+}
